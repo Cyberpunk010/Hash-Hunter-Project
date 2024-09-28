@@ -1,0 +1,3 @@
+passlib
+termcolor
+pyfiglet
