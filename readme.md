@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ## Installation
 Clone the repository
 ```bash
-git clone https://github.com/yourusername/hash-cracker.git
+git clone https://github.com/Cyberpunk010/Hash-Hunter-Project.git
 cd hash-cracker
 ```
 Install the required packages:
